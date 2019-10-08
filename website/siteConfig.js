@@ -58,6 +58,7 @@ const siteConfig = {
     secondaryColor: '#797802',
   },
 
+  cname: 'somilgarg.com',
   /* Custom fonts for website */
   /*
   fonts: {
