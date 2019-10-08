@@ -38,9 +38,9 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
+   // {doc: 'doc1', label: 'Docs'},
+   // {doc: 'doc4', label: 'API'},
+   // {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
 
@@ -48,13 +48,13 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
+  //headerIcon: 'img/favicon.ico',
   footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  //favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#adac03',
+    primaryColor: '#8144c7',
     secondaryColor: '#797802',
   },
 
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} Somil Garg`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
