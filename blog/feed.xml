@@ -14,19 +14,11 @@
         </image>
         <copyright>Copyright © 2019 Somil Garg</copyright>
         <item>
-            <title><![CDATA[Second Blog]]></title>
+            <title><![CDATA[Beginning]]></title>
             <link>https://somilgarg.com/blog/2019/10/08/blog-post.html</link>
             <guid>https://somilgarg.com/blog/2019/10/08/blog-post.html</guid>
             <pubDate>Tue, 08 Oct 2019 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This is the second post content after this should be shown in the read more section.</p>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[First Blog]]></title>
-            <link>https://somilgarg.com/blog/2019/08/10/blog-post.html</link>
-            <guid>https://somilgarg.com/blog/2019/08/10/blog-post.html</guid>
-            <pubDate>Sat, 10 Aug 2019 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This is the first blog post and content after this should not be shown .</p>
+            <description><![CDATA[<p>After reading a lot of amazing blogs i thought i should also have one and finally it's up.</p>
 ]]></description>
         </item>
     </channel>

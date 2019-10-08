@@ -9,25 +9,12 @@
     <logo>https://somilgarg.com/undefined</logo>
     <rights>Copyright © 2019 Somil Garg</rights>
     <entry>
-        <title type="html"><![CDATA[Second Blog]]></title>
+        <title type="html"><![CDATA[Beginning]]></title>
         <id>https://somilgarg.com/blog/2019/10/08/blog-post.html</id>
         <link href="https://somilgarg.com/blog/2019/10/08/blog-post.html">
         </link>
         <updated>2019-10-08T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is the second post content after this should be shown in the read more section.</p>
-]]></summary>
-        <author>
-            <name>Somil Garg</name>
-            <uri>http://twitter.com/somilgarg181</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog]]></title>
-        <id>https://somilgarg.com/blog/2019/08/10/blog-post.html</id>
-        <link href="https://somilgarg.com/blog/2019/08/10/blog-post.html">
-        </link>
-        <updated>2019-08-10T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is the first blog post and content after this should not be shown .</p>
+        <summary type="html"><![CDATA[<p>After reading a lot of amazing blogs i thought i should also have one and finally it's up.</p>
 ]]></summary>
         <author>
             <name>Somil Garg</name>
