@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://somilgarg.com/blog</id>
     <title>Somil Garg Blog</title>
-    <updated>2019-10-08T06:00:00Z</updated>
+    <updated>2019-10-13T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://somilgarg.com/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Somil Garg news and events.</subtitle>
     <logo>https://somilgarg.com/undefined</logo>
     <rights>Copyright © 2019 Somil Garg</rights>
+    <entry>
+        <title type="html"><![CDATA[Smooth seas]]></title>
+        <id>https://somilgarg.com/blog/2019/10/13/blog-post.html</id>
+        <link href="https://somilgarg.com/blog/2019/10/13/blog-post.html">
+        </link>
+        <updated>2019-10-13T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Smooth seas do not make skillful sailors.</p>
+]]></summary>
+        <author>
+            <name>Somil Garg</name>
+            <uri>http://twitter.com/somilgarg181</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beginning]]></title>
         <id>https://somilgarg.com/blog/2019/10/08/blog-post.html</id>
