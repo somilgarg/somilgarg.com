@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'Somil Garg', // Title for your website.
-  tagline: 'Associate Software Engineer',
+  tagline: 'Software Engineer',
   url: 'https://somilgarg.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -54,8 +54,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#8144c7',
-    secondaryColor: '#797802',
+    primaryColor: '#0c090f',
+    secondaryColor: '#0c090f',
   },
 
   cname: 'somilgarg.com',

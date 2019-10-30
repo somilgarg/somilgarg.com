@@ -60,12 +60,15 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
+        {/* <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} /> */}
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="#try">Stack Overflow</Button>
-            <Button href={docUrl('doc1.html')}>Github</Button>
+            <Button href="https://stackoverflow.com/users/4007703/somil-garg">StackOverflow</Button>
+            <Button href="https://github.com/somilgarg">Github</Button>
+            <Button href="https://twitter.com/somilgarg181">Twitter</Button>
+            <Button href="https://medium.com/@somilgarg181">Medium</Button>
+            <Button href="https://linkedin.com/in/somilgarg181">LinkedIn</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -95,52 +98,52 @@ class Index extends React.Component {
 
   
 
-    const Description = () => (
-      <Block background="dark">
-        {[
-          {
-            content:
-              'This is another d  escription of how this project is useful',
-            image: `${baseUrl}img/undraw_note_list.svg`,
-            imageAlign: 'right',
-            title: 'Description',
-          },
-        ]}
-      </Block>
-    );
+    // const Description = () => (
+    //   <Block background="dark">
+    //     {[
+    //       {
+    //         content:
+    //           'This is another d  escription of how this project is useful',
+    //         image: `${baseUrl}img/undraw_note_list.svg`,
+    //         imageAlign: 'right',
+    //         title: 'Description',
+    //       },
+    //     ]}
+    //   </Block>
+    // );
 
-    const LearnHow = () => (
-      <Block background="light">
-        {[
-          {
-            content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
-            image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
-            imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
-          },
-        ]}
-      </Block>
-    );
+    // const LearnHow = () => (
+    //   <Block background="light">
+    //     {[
+    //       {
+    //         content:
+    //           'Each new Docusaurus project has **randomly-generated** theme colors.',
+    //         image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
+    //         imageAlign: 'right',
+    //         title: 'Randomly Generated Theme Colors',
+    //       },
+    //     ]}
+    //   </Block>
+    // );
 
-    const Features = () => (
-      <Block layout="fourColumn">
-        {[
-          {
-            content: 'This is the content of my feature',
-            image: `${baseUrl}img/undraw_react.svg`,
-            imageAlign: 'top',
-            title: 'Feature One',
-          },
-          {
-            content: 'The content of my second feature',
-            image: `${baseUrl}img/undraw_operating_system.svg`,
-            imageAlign: 'top',
-            title: 'Feature Two',
-          },
-        ]}
-      </Block>
-    );
+    // const Features = () => (
+    //   <Block layout="fourColumn">
+    //     {[
+    //       {
+    //         content: 'This is the content of my feature',
+    //         image: `${baseUrl}img/undraw_react.svg`,
+    //         imageAlign: 'top',
+    //         title: 'Feature One',
+    //       },
+    //       {
+    //         content: 'The content of my second feature',
+    //         image: `${baseUrl}img/undraw_operating_system.svg`,
+    //         imageAlign: 'top',
+    //         title: 'Feature Two',
+    //       },
+    //     ]}
+    //   </Block>
+    // );
 
     
 
@@ -148,9 +151,9 @@ class Index extends React.Component {
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
-          <Features />
-          <LearnHow />
-          <Description />
+          {/* <Features /> */}
+          {/* <LearnHow /> */}
+          {/* <Description /> */}
         </div>
       </div>
     );
