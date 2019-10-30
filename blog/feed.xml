@@ -4,7 +4,7 @@
         <title>Somil Garg Blog</title>
         <link>https://somilgarg.com/blog</link>
         <description>The best place to stay up-to-date with the latest Somil Garg news and events.</description>
-        <lastBuildDate>Sun, 13 Oct 2019 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,14 +13,6 @@
             <link>https://somilgarg.com/blog</link>
         </image>
         <copyright>Copyright © 2019 Somil Garg</copyright>
-        <item>
-            <title><![CDATA[Skillful Sailors]]></title>
-            <link>https://somilgarg.com/blog/2019/10/13/blog-post.html</link>
-            <guid>https://somilgarg.com/blog/2019/10/13/blog-post.html</guid>
-            <pubDate>Sun, 13 Oct 2019 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Smooth seas do not make skillful sailors.</p>
-]]></description>
-        </item>
         <item>
             <title><![CDATA[Beginning]]></title>
             <link>https://somilgarg.com/blog/2019/10/08/blog-post.html</link>
